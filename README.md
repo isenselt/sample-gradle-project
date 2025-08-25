@@ -1,4 +1,7 @@
-# sample-gradle-project {#custom-id}
-The repository for practical coding exercises
+# sample-gradle-project
+A take and code repository for practical coding exercises. 
 
-[link custom-id](#custom-id)
+Clone and run
+```./gradlew build```
+
+Let the coding juices flow... :) 
