@@ -2,6 +2,8 @@
 A take and code repository for practical coding exercises. 
 
 Clone and run
-```./gradlew build```
+```bash
+./gradlew build
+```
 
 Let the coding juices flow... :) 
